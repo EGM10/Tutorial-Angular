@@ -21,10 +21,9 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-  "src/favicon.ico",
-  "src/assets"
-],
-
+              "src/favicon.ico",
+              "src/assets"
+            ],
             "styles": [
               "src/styles.css"
             ],
@@ -77,11 +76,10 @@
               "zone.js/testing"
             ],
             "tsConfig": "tsconfig.spec.json",
-           "assets": [
-  "src/favicon.ico",
-  "src/assets"
-],
-
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
             "styles": [
               "src/styles.css"
             ],
